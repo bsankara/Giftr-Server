@@ -1,0 +1,19 @@
+{
+  "name": "Giftr-Server",
+  "version": "1.0.0",
+  "description": "Server for the Gifter Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bsankara/Giftr-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsankara/Giftr-Server/issues"
+  },
+  "homepage": "https://github.com/bsankara/Giftr-Server"
+}
