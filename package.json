@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bsankara/Giftr-Server/issues"
   },
-  "homepage": "https://github.com/bsankara/Giftr-Server"
+  "homepage": "https://github.com/bsankara/Giftr-Server",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
